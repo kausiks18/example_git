@@ -1,0 +1,54 @@
+{
+"kind":"amazone#SearchListResponse",
+"etag":"\"m2Sy67jhkljkml890KJUY/Paidevx876wordPress9lkZ\"",
+"nextPageToken":"NSADKi678",
+"regionCode":"IN",
+"pageInfo":{
+"totaslResult":58,
+"resultsPerPage":16
+},
+"items":[
+{
+"kind":"amazon#SearchReasult",
+"etag":"\"m2Sy67jhkljkml890KJUY/QPOIr3Qklv5UlzfFcVVDiJtOw\"",
+"validTill": 1452881213871,
+"productInfoList": [{
+"productId": "HDFR56YUHJ678IO",
+"productUrl": "https://www.amazon.in/Cello-H2O-Unbreakable-Bottle-Litre/dp/B01AEMWVYQ/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1528646200&sr=1-2&keywords=cello+h20+water+bottle",
+                "productBrand": "Cello H2O",
+"title": "Cello H2O Unbreakable Bottle,",
+"productDescription": "Hygenic bottle with cristal clear body,100% safe for freeze",
+"productColor":[
+"Blue",
+"Black",
+"Green",
+"White"
+],
+"productimageUrls": [
+"https://images-na.ssl-images-amazon.com/images/I/43hfdjk-IHJ2B7L.jpg",
+"https://images-na.ssl-images-amazon.com/images/I/31tcZ-Sk%2B7L.jpg"
+],
+
+"productMaximumRetailPrice": {
+                    "amount": 678,
+                    "currency": "INR"
+                },
+"productSellingPrice": {
+                    "amount": 321,
+                    "currency": "INR"
+                },
+				
+"inStock": false,
+"isAvailable": true,
+ "codAvailable": true,
+ "emiAvailable": null,
+ "discountPercentage": 20,
+ "cashBack": null	
+
+
+}]
+}
+
+]
+
+}
